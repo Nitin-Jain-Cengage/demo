@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Demo Tests Suite]" parallel="classes">
+  <test name="Demo 23 July">
+    <classes>
+      <class name="MyTest"/>
+      <class name="Test123"/>
+    </classes>
+  </test> <!-- Demo 23 July -->
+</suite> <!-- Failed suite [Demo Tests Suite] -->

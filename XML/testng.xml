@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo Tests Suite" preserve-order="true" parallel="classes" thread-count="1">
+<test name="Demo 23 July">
+	  	<classes>            
+                 <class name="MyTest" /> 
+                 <class name="Test123" /> 
+		</classes>
+
+</test>
+</suite>
